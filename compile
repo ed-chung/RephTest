@@ -1,0 +1,5 @@
+webpack --config webpack.app.config.js
+webpack --config webpack.app.server.config.js
+webpack --config webpack.landing.config.js
+webpack --config webpack.landing.server.config.js
+mix phoenix.digest
